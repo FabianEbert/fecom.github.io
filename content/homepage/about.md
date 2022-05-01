@@ -1,7 +1,7 @@
 ---
 title: Fabian Ebert
 draft: false
-role: Software Engineer, Tech Lead
+role: Technical Lead
 # avatar: http://www.f-ebert.de/fabian.jpg
 avatar: images/fabian.jpg
 bio: Agile mindset, customer centric, strong communicator, leading digital transformation, values driven
